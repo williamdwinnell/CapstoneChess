@@ -18,7 +18,6 @@ Welcome to the GitHub repository for my LLM Chess Project for my Capstone Gradua
 - **Features:** 
   - Training and loading model checkpoints.
   - A game loop that allows users to play against the trained model.
-  - 
 ---
 
 This project is an ongoing effort, and I plan on continuing it for the foreseeable future.
