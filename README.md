@@ -1,6 +1,6 @@
 # Project Overview
 
-Welcome to the GitHub repository for my LLM Chess Project for my Capstone Graduation Project.
+Welcome to the GitHub repository for my LLM Chess Project for my Capstone Graduation Project. The goal of this project is to create a machine learning model that is capable of playing chess moves that a human is likely to play at a given ELO range.
 
 ## 1. The Data Loader
 
